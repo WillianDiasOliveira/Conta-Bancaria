@@ -22,7 +22,7 @@ Além disso, o exercício inclui a criação de clientes e um método de classe 
 
 ## 🖥️Como Executar
 
-Python Conta_Classe.py
+No terminal digite "Python Conta_Classe.py"
 
 ## 🖥️ Tecnologias
 <div>
