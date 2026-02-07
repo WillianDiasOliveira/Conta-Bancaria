@@ -11,8 +11,6 @@ Sugestões e melhorias são sempre bem-vindas!</p>
 
 <h2>📖 Descrição do código </h2>
 
-O objetivo deste projeto é aplicar conceitos básicos de programação em Python para criar uma calculadora de gorjeta.<br>
-
 O desafio é criar um programa utilizando Programação Orientada a Objetos para simular o funcionamento básico de contas bancárias. O sistema deve permitir a criação de contas com titular e saldo, além de possibilitar a ativação da conta. Também são aplicados conceitos como encapsulamento, uso de atributos privados e métodos com @property para acessar informações de forma controlada.
 Além disso, o exercício inclui a criação de clientes e um método de classe para gerar contas vinculadas a esses clientes, reforçando a prática
 
